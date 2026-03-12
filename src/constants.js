@@ -245,7 +245,7 @@ export const projects = [
     image: resumeLogo,
     tags: ["Python", "Flask", "NLP", "ATS", "Resume Analysis"],
     github: "https://github.com/neveshdivya/resume_ats_Score_check",
-    webapp: "https://github.com/neveshdivya/resume_ats_Score_check/tree/master",
+    webapp: "https://resumescren.netlify.app/",
   },
 
   {
